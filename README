@@ -1,0 +1,12 @@
+# Script Tampermonkey para auxiliar no uso do site https://investidor.suno.com.br/
+
+Este script vai te auxiliar a copiar a carteira recomendada da casa de análise de investimentos Suno.
+Para aprender instalar o Tampermonkey e utilizá-lo vá em https://www.tampermonkey.net/ as extensões são compatíveis com a maioria dos navegadores modernos.
+
+## Funcionalidades
+1. Copia o portfolio de dividendos para assinantes que tem acesso ao link: https://investidor.suno.com.br/carteiras/dividendos
+1. Copia o portfolio de fundos imobiliário para assinantes que tem acesso ao link: https://investidor.suno.com.br/carteiras/fiis
+1. Copia o portfolio 'valor' para assinantes que tem acesso ao link: https://investidor.suno.com.br/carteiras/valor
+
+## Sobre as informações do site
+Este script é para uso pessoal, todas as informações que ele extrai do site estão sujeitos aos termos do criador da informação.
